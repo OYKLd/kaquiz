@@ -1,0 +1,1 @@
+ /home/digifemmes-22lab221/kaquiz/.dart_tool/flutter_build/2f8e538f7f980a9ad45e1340f5b6a0c6/native_assets.yaml: 
